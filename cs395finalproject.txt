@@ -500,11 +500,6 @@
     </body>
 	
 	
-	<!-- TESTIMONIALS ON JS+HTML:
-		"JavaScript is by far the worst thing on this planet." -Tyler
-		"I LITERALLY cannot understand JavaScript, AT ALL." -Michael 
-		"Working with JavaScript makes me want to die." -Matt
-	-->
 </html>
 
  
